@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The hero of <i>Cat Chaser</i>, George Moran, isn't looking for trouble but finds it anyway when he winds up in bed with the wife of a drug-dealing mob-connected Dominican cop - vicious, macho and ready to follow George to the ends of the earth, which in this case means Miami. </p>"; 

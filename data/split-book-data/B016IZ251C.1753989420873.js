@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A few days after Christmas and still disappointed, the nine-year-old boy saw a box with his name on it under his aunt's tree. His spirits improved almost immediately, and his excitement was difficult to contain. The gift had been wrapped in thin paper, thin enough to see through. </p>"; 
